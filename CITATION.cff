@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or the associated research, please cite it as below."
-title: "Smooth Variational Diffusion and Signal-to-Noise Ratio Equivalence"
+title: "Smooth Variational Diffusion and Signal-to-Noise Ratio Equivalence Code"
 version: 1.0.0
 doi: 10.5281/zenodo.19867345
 date-released: 2026-04-28
